@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "superagent": "^8.1.2"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "main.js",
+  "name": "euskal-izenak-scrapper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
